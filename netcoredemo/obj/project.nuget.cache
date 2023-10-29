@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "WA5kzF4Q1ZO0upNFxkDnn5pndWZYpI/tCViCTgxyW8xcvbsqL7OVT3dhNJgBQ2A9l2rHt2qP033ytz7Uq9V2tg==",
+  "success": true,
+  "projectFilePath": "F:\\netcoredemo\\netcoredemo\\netcoredemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liuyq\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://10.13.40.246:60191/nuget”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}
